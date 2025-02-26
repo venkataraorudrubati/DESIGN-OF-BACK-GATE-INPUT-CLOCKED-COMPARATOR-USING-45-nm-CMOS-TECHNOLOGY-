@@ -1,2 +1,3 @@
 # DESIGN-OF-BACK-GATE-INPUT-CLOCKED-COMPARATOR-USING-45-nm-CMOS-TECHNOLOGY-
 VLSI
+[446.pdf](https://github.com/user-attachments/files/18981718/446.pdf)
